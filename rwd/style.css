@@ -1,0 +1,85 @@
+
+html {
+    background-image: url(bg.jpg);
+    background-position: center;  
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    max-width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.banner{
+    display: block;
+    align-content: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding-top: 8%;
+}
+
+
+.home{
+    padding-right: 10%;
+}
+
+.about{
+    padding-right: 10%;
+}
+
+.tic{
+    padding-right: 10%;
+}
+
+.photo{
+    padding-right: 10%;
+}
+
+.blog{
+    padding-right: 10%;
+}
+
+.hpa{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-top: 15%;
+    padding-bottom: 10%;
+    vertical-align: middle;
+}
+
+footer {
+    display: block;
+    float: right;
+    width: 28%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.firstline{
+    padding-bottom: 5%;
+    width: 80%;
+    padding-right: 10%;
+}
+.icon{
+    display: inline-block;
+    float: right;
+    width: 80%;
+    padding-right: 10%;
+}
+#ins {
+    width: 18%;
+    padding-right: 10%;
+}
+#fb {
+    width: 18%;
+    padding-right: 10%;
+}
+#yt {
+    width: 18%;
+    padding-right: 10%;
+}
